@@ -1,7 +1,9 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-<h1 align="center">Hi 👋, I'm Drishti</h1>
+<h1 align="center">Hi, I'm Drishti🖖</h1>
 
-<h3 align="center">A passionate python developer </h3>
+<h2 align="center">A passionate python developer </h2>
+
+<h3>"Live long and prosper!" 🖖 Logic, problem-solving, and a dash of Vulcan philosophy guide my coding journey.</h3>
 
 - 🌱 Learning: Currently diving deep into SQL and Python while balancing life at 4:30 AM!
 - 🏋️‍♀️ Fitness Enthusiast: Morning workouts fuel my problem-solving skills.
