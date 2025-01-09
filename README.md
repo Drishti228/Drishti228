@@ -1,16 +1,18 @@
-## Hi there 👋
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<h1 align="center">Hi 👋, I'm Drishti</h1>
 
-<!--
-**Drishti228/Drishti228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A passionate python developer </h3>
 
-Here are some ideas to get you started:
+- 🌱 Learning: Currently diving deep into SQL and Python while balancing life at 4:30 AM!
+- 🏋️‍♀️ Fitness Enthusiast: Morning workouts fuel my problem-solving skills.
+- 🐾 Dog Lover: My dog is the best project manager; daily walks = creative breakthroughs.
+- 🧠 Fun Fact: The first program I wrote printed "Hello, Chaos!" (debugging taught me humility).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/drishti-csml/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angshu-majumdar-4ab3361a6" height="30" width="40" /></a>
+</p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Drishti228&show_icons=true&locale=en&layout=compact" alt="Drishti228" /></p>
+
