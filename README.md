@@ -1,4 +1,30 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<div align="center">
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/></a>
+</div>
+
+
 <h1 align="center">Hi, I'm Drishti🖖</h1>
 
 <h2 align="center">A passionate python developer </h2>
