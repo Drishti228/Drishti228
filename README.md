@@ -31,10 +31,10 @@
 
 <h3>"Live long and prosper!" 🖖 Logic, problem-solving, and a dash of Vulcan philosophy guide my coding journey.</h3>
 
-- 🌱 Learning: Currently diving deep into SQL and Python while balancing life at 4:30 AM!
-- 🏋️‍♀️ Fitness Enthusiast: Morning workouts fuel my problem-solving skills.
-- 🐾 Dog Lover: My dog is the best project manager; daily walks = creative breakthroughs.
-- 🧠 Fun Fact: The first program I wrote printed "Hello, Chaos!" (debugging taught me humility).
+- 🌱 Currently diving deep into SQL and Python while balancing life at 4:30 AM!
+- 🏋️‍♀️ Morning workouts fuel my problem-solving skills.
+- 🐾 My dog is the best project manager; daily walks = creative breakthroughs.
+- ☕ Fun Fact: I am probably sipping coffee as you read this (if it's morning though)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
