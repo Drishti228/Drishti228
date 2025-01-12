@@ -27,8 +27,6 @@
 
 <h1 align="center">Hi, I'm Drishti</h1>
 
-<h2 align="center">A passionate python developer </h2>
-
 <h3>"Live long and prosper!" 🖖 Logic, problem-solving, and a dash of Vulcan philosophy guide my coding journey.</h3>
 
 - 🌱 Currently diving deep into SQL and Python while balancing life at 4:30 AM!
