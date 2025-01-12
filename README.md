@@ -25,7 +25,7 @@
 </div>
 
 
-<h1 align="center">Hi, I'm Drishti🖖</h1>
+<h1 align="center">Hi, I'm Drishti</h1>
 
 <h2 align="center">A passionate python developer </h2>
 
