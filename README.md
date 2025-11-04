@@ -31,8 +31,8 @@
     Driven by logic, curiosity, and a love for clean code.</h3>
 <h4>Unnecessary personal flexes 👇😏</h4>
 
-- 🏋️‍♀️ 5:00 AM squad — discipline > motivation (my mom doesn’t see GitHub, so we're safe 🤫)
-- 🐾 Dog-powered creativity (yes, he attends daily stand-ups)  
+- 🏋️‍♀️ 5:00 AM squad, discipline > motivation (my mom doesn’t see GitHub, so we're safe 🤫)
+- 🐾 Dog powered creativity (yes, he attends daily stand-ups)  
 - ☕ Espresso is a lifestyle, not a beverage
 
 <h3 align="left">Connect with me:</h3>
