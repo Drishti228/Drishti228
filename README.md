@@ -41,7 +41,4 @@
 </p>
 
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Drishti228&show_icons=true&locale=en&layout=compact" alt="Drishti228" /></p>
-
+~ god repo : https://standardgalactic.github.io/umbilicus/index.html
