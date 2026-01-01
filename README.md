@@ -46,4 +46,8 @@
 ~ parody song : https://standardgalactic.github.io/audio-player.html
 <br></br>
 
-<img width="400" alt="Image" src="https://github.com/user-attachments/assets/e8b55586-2bd5-4794-8059-583ed44b9843" />
+<img
+  width="400"
+  alt="Image"
+  src="https://raw.githubusercontent.com/Drishti228/Drishti228/main/Guido van Rossum.png"
+/>
