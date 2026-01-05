@@ -34,12 +34,7 @@
 - 🏋️‍♀️ 5:00 AM squad, discipline > motivation (my mom doesn’t see GitHub, so we're safe 🤫)
 - 🐾 Dog powered creativity (yes, he attends daily stand-ups)  
 - ☕ Espresso is a lifestyle, not a beverage
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sdev-drishti/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" /></a>
-</p>
-
+  
 
 ~ god repo : https://standardgalactic.github.io/umbilicus/index.html
 <br>
