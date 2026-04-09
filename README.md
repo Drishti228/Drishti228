@@ -36,6 +36,11 @@
 - 🐾 Dog powered creativity (yes, he attends daily stand-ups)  
 - ☕ Espresso is a lifestyle, not a beverage
 
+<h1 align="center">
+  <a href="https://drishti228.github.io/drishti.dev/">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=This+is+not+a+resume;It's+a+graveyard+of+ideas;Some+code+still+works+👀" />
+  </a>
+</h1>
 <br/>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
